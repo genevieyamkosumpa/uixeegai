@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://johnguheep.unicycle.org.uk/sitemap.xml
